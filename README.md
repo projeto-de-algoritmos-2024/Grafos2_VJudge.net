@@ -1,4 +1,4 @@
-# NomedoProjeto
+# Grafos2_VJudge
 
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: XXXXXXXXXX<br>
