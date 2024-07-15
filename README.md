@@ -15,9 +15,11 @@ O projeto foi baseado em resoluções de exercícios de juiz online que aplicass
 ## Screenshots
 
 1584. Min Cost to Connect All Points
+      
 ![image](https://github.com/user-attachments/assets/31da6245-3685-4eb7-86cc-0a86c37f18dc)
 
 332. Reconstruct Itinerary
+     
 ![image](https://github.com/user-attachments/assets/04a4d3cc-0b51-4fdf-a1d2-9de4f77a1115)
 
 ## Outros 
